@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inlogic.PosSolution", "Inlogic.PosSolution\Inlogic.PosSolution.csproj", "{5305666A-8186-45EF-A8CA-841D568FF55C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inlogic.DAL", "Inlogic.DAL\Inlogic.DAL.csproj", "{1D981923-EDAC-4F71-BD35-936ED81DE1F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inlogic.Services", "Inlogic.Service\Inlogic.Services.csproj", "{F5EF3971-E375-4180-B2A4-6CB1B591DFE9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inlogic.Pos.Entities", "Inlogic.Pos.Entities\Inlogic.Pos.Entities.csproj", "{8B0884C8-CF27-4101-87C6-8A804EEADF9C}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "ORO24", "ORO24\ORO24.sqlproj", "{20C1EE56-6545-456E-8DF4-52F24A089A0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5305666A-8186-45EF-A8CA-841D568FF55C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5305666A-8186-45EF-A8CA-841D568FF55C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5305666A-8186-45EF-A8CA-841D568FF55C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5305666A-8186-45EF-A8CA-841D568FF55C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D981923-EDAC-4F71-BD35-936ED81DE1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D981923-EDAC-4F71-BD35-936ED81DE1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D981923-EDAC-4F71-BD35-936ED81DE1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D981923-EDAC-4F71-BD35-936ED81DE1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5EF3971-E375-4180-B2A4-6CB1B591DFE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5EF3971-E375-4180-B2A4-6CB1B591DFE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5EF3971-E375-4180-B2A4-6CB1B591DFE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5EF3971-E375-4180-B2A4-6CB1B591DFE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0884C8-CF27-4101-87C6-8A804EEADF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0884C8-CF27-4101-87C6-8A804EEADF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0884C8-CF27-4101-87C6-8A804EEADF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0884C8-CF27-4101-87C6-8A804EEADF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C1EE56-6545-456E-8DF4-52F24A089A0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C1EE56-6545-456E-8DF4-52F24A089A0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C1EE56-6545-456E-8DF4-52F24A089A0F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{20C1EE56-6545-456E-8DF4-52F24A089A0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C1EE56-6545-456E-8DF4-52F24A089A0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C1EE56-6545-456E-8DF4-52F24A089A0F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01E966FF-DC61-4C51-B9B0-D9488A71114F}
+	EndGlobalSection
+EndGlobal
